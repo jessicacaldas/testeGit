@@ -19,5 +19,7 @@ class MainActivity : AppCompatActivity() {
         //Branch funcionalidade1
 
         //funcionalidade1 commit1
+
+        //funcionalidade1 commit2
     }
 }
